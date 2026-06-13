@@ -1,2 +1,2 @@
-rootProject.name = "famzop"
+﻿rootProject.name = "famzop"
 include ':app'
